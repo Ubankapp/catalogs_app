@@ -1,5 +1,5 @@
 =====
-Catalogs
+Catalogs app
 =====
 
 Esta aplicación Django permite tener los catálogos
