@@ -1,0 +1,14 @@
+- model: 'catalog.Item'
+  fields:
+    id: 'cea03b6b-96a3-4d5b-a84e-a74d5c88be0a'
+    catalog_id: 'dc34207f-34ba-4bd5-99ec-8ee4bbcdf927'
+    item_name: 'USD'
+    description: 'USD'
+    metadata: {
+      "icon": "/assets/xerpa/global/img/currencies/usd.svg",
+      "color": "#7C2582",
+      "active": true,
+      "short_name": "USD"
+    }
+    active: true
+    process_name: null

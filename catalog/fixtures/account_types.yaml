@@ -1,0 +1,29 @@
+- model: 'catalog.Item'
+  fields:
+    id: 'f3029ccb-8f07-4c15-a55d-5fc628cc4230'
+    catalog_id: 'f1895069-e723-4cc8-9331-d1cb4110ab7a'
+    item_name: 'Cuenta Corriente'
+    description: 'Cuenta Corriente'
+    metadata: {
+      "icon": "/assets/xerpa/global/img/products/cc.svg",
+      "color": "#7C2582",
+      "active": true,
+      "short_name": "CUENTACORRIENTE"
+    }
+    active: true
+    process_name: null
+
+- model: 'catalog.Item'
+  fields:
+    id: 'e480d1b0-cb8e-448c-9864-ed7ae4ce20b3'
+    catalog_id: 'f1895069-e723-4cc8-9331-d1cb4110ab7a'
+    item_name: 'cuenta_cheques'
+    description: 'Cuenta de cheques'
+    metadata: {
+      "icon": "/assets/xerpa/global/img/categories/cuenta_cheques.svg",
+      "color": "#7C2582",
+      "active": true,
+      "short_name": "CUENTACHEQUES"
+    }
+    active: true
+    process_name: null
